@@ -11,7 +11,7 @@ function cookieClick() {
     //upgrade level for printing
     numbers.innerHTML = num;
     if (num > 500){audio.play();}
-    var keksi = 100+ (num/5)
+    var keksi = 200+ (num/5)
     size = String(keksi).concat("px");
 
     document.getElementById('cookie').style.width= size ;
