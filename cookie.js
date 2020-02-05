@@ -6,7 +6,7 @@ var cookie = document.getElementById("cookie");
 var audio = new Audio('morseclue.wav');
 
 function cookieClick() {
-    num += 100;
+    num += 1;
     var numbers = document.getElementById("numbers");
     //upgrade level for printing
     numbers.innerHTML = num;
