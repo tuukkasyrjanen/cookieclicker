@@ -28,6 +28,10 @@ p {
     height:60px;
 }
 
+#morse {
+    position: relative;
+    
+}
 
 
 #numbers {
@@ -45,6 +49,7 @@ p {
 
 #cookie {
     width:200px;
+
 
 }
 
