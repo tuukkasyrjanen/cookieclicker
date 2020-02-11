@@ -12,7 +12,7 @@ function cookieClick() {
     var numbers = document.getElementById("numbers");
     //upgrade level for printing
     numbers.innerHTML = num;
-    if (num > 500){audio.play();}
+    if (num >= 500){audio.play();}
     var keksi = 200+ (num/5)
     size = String(keksi).concat("px");
 
