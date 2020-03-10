@@ -29,8 +29,8 @@ p {
 }
 
 #morse {
-    position: relative;
-    
+    position:fixed;
+    right: 200px;
 }
 
 
